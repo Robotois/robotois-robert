@@ -1,6 +1,6 @@
 #include "Ultrasonic.h"
 #include "SimpleTimer.h"
-// #include "../lib/Motors/Motors.h"
+#include "Motors.h"
 // #include "../lib/DigitalIO/DigitalIO.h"
 
 SimpleTimer timer;
@@ -40,15 +40,15 @@ Ultrasonic usonic(13, 12);
 //}
 
 void setup() {
-// initializeMotors();
+  initializeMotors();
   Serial.begin(115200);
   Serial.println("---> Ultrasonic test");
-  timer.setInterval(500, &sensorRead);
+  // timer.setInterval(500, &sensorRead);
   // timer.setInterval(300, &move);
 //  timer.setInterval(500, &ioTest);
 }
 
 void loop() {
   timer.run();
-  // motorsTest();
+  motorsTest();
 }
