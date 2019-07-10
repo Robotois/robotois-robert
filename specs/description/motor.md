@@ -1,6 +1,6 @@
 # Motor
 
->Micro motorreductor de metal. 
+> Micro motorreductor de metal
 
 > Motorreductor Pololu
 
@@ -10,7 +10,6 @@
 - [Especificaciones ](#Especificaciones )
 - [Dimensiones](#Dimensiones)
 - [Características ](#Características)
-- [Resumen](#Resumen)
 - [Licencia](#Licencia)
 
 ---
@@ -33,7 +32,7 @@
 
 ## Dimensiones
 
-[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/motor.png)]()
+[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/measures/motor.png)]()
 
 > Peso aproximado. 12g/0.4oz 
 
@@ -54,11 +53,6 @@
 - Excelente calidad y larga vida útil.
 - Es fácil de desmontar e instalar.
 - Rendimiento estable y fiable.
-
-
-
-## Resumen
-
 
 ## Licencia
 
