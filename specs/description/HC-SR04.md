@@ -8,7 +8,7 @@
 
 ## Tabla de contenido 
 - [Especificaciones ](#Especificaciones )
-- [Pines de conexión](#Pines)
+- [Pines](#Pines)
 - [Dimensiones](#Dimensiones)
 - [Características ](#Características)
 - [Licencia](#Licencia)
@@ -30,7 +30,7 @@
 
 [![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/HC-SR04.png)]()
 
-## Pines de conexión
+## Pines
 
 
 - VCC (+5V DC)
