@@ -8,9 +8,11 @@
 
 ## Tabla de contenido 
 - [Especificaciones ](#Especificaciones )
+- [Pines de conexión](#Pines)
 - [Dimensiones](#Dimensiones)
 - [Características ](#Características)
 - [Licencia](#Licencia)
+
 
 ---
 ## Especificaciones
@@ -27,6 +29,14 @@
 > Precisión: +- 3mm
 
 [![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/HC-SR04.png)]()
+
+## Pines de conexión
+
+
+- VCC (+5V DC)
+- TRIG (Disparo del ultrasonido)
+- ECHO (Recepción del ultrasonido)
+- GND (0V)
 
 ## Dimensiones
 
