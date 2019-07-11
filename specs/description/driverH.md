@@ -16,7 +16,7 @@
 
 ### Chip: L298N
 
-- Canales: 2 (soporta 2 motores DC o 1 motor PAP)
+> Canales: 2 (soporta 2 motores DC o 1 motor PAP)
 
 > Voltaje lógico: 5V
 
