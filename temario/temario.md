@@ -153,7 +153,7 @@
 
   
 
--Conectar un motor al voltaje directo 
+- Conectar un motor al voltaje directo 
 
   
 
@@ -165,7 +165,7 @@
 
   
 
--Controlar la velocidad del motor con PWM 
+- Controlar la velocidad del motor con PWM 
 
   
 
@@ -243,7 +243,7 @@
 
   
 
--Programación de robot para autonomía 
+- Programación de robot para autonomía 
 
  
 ---
