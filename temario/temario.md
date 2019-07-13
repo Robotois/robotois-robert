@@ -69,7 +69,7 @@
 
   
 
-> Parpadear led dentro de una función 
+- Parpadear led dentro de una función 
 
   
 
@@ -77,7 +77,7 @@
 
   
 
-> Parpadear led con operaciones matemáticas 
+- Parpadear led con operaciones matemáticas 
 
   
 
