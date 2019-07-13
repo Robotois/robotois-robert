@@ -1,116 +1,250 @@
-#Temario 
+# Temario  
+  
 
- 
+## Introducción  
 
-## Introducción 
-
----
-
- > ¿Qué es Arduino? 
- 
- > Características de las diferentes placas de Arduino  
-
-> Arduino en el mundo de la robótica  
-
-> Instalación del IDE Arduino y librerías 
+  
 
 --- 
 
-## Electrónica 
+  
 
---- 
+> ¿Qué es Arduino?  
 
-> Voltaje, corriente y resistencia 
+  
 
-> Señales digitales y analógicas  
+> Estructura de Arduino   
 
-> PWM (modulación por ancho de pulso) 
+  
 
-> Pines Arduino de propósito general 
+> Conceptos básicos     
 
-> Pines Arduino generadores de PWM 
+  
 
- ---
+> Instalación del IDE Arduino y librerías  
 
-## Introducción a la programación en la plataforma ROBOTOIS 
+  
 
----
-> Sintaxis  
+-  Prender un led 
 
-> Tipo de bloque lógicos 
-
-> Ciclos 
-
-> Funciones  
-
-> Temporización 
-
-> Operaciones matemáticas  
-
-> Detección de errores 
+  
 
 ---  
 
-## ROBOTOIS para Arduino 
----
+  
 
-> Generación de lógica con bloques 
+  
 
-> Generación de código con bloques lógicos 
+## ROBOTOIS para Arduino  
 
-> Programación de Arduino 
+--- 
 
- ---
+  
 
- 
+> Generación de código con bloques 
+
+  
+
+- Prender un led 
+
+  
+
+> Bloques lógicos  
+
+  
+
+> Sintaxis   
+
+  
+
+> Ciclos  
+
+  
+
+- Parpadear un led 
+
+  
+
+> Funciones   
+
+  
+
+> Parpadear led dentro de una función 
+
+  
+
+> Operaciones matemáticas   
+
+  
+
+> Parpadear led con operaciones matemáticas 
+
+  
+
+--- 
+
+  
+
+  
+
+## Electrónica 
+
+  
+
+---  
+
+  
+
+> Voltaje, corriente y resistencia  
+
+  
+
+- Circuito de un led 
+
+  
+
+- Definir brillo de un led 
+
+  
+
+> Pines Arduino de propósito general  
+
+  
+
+- Secuencia con tres leds 
+
+  
+
+> Señales digitales 
+
+  
+
+- Semáforo con leds 
+
+  
+
+> Señales analógicas  
+
+  
+
+>> PWM (modulación por ancho de pulso) 
+
+  
+
+- Sirena de leds  
+
+--- 
+
+  
+
+  
+
+--- 
 
 ## Sensores y Actuadores 
 
 ---
+
 > Led 
 
-> Motor 
+  
 
-> Controlador de giro para motores 
+> Motor  
 
-> Sensor ultrasónico  
+  
 
-> Sensor de línea 
+-Conectar un motor al voltaje directo 
 
- ---
+  
+
+> Puente H 
+
+  
+
+- Mover un motor en un sentido 
+
+  
+
+-Controlar la velocidad del motor con PWM 
+
+  
+
+> Controlador de giro para motores  
+
+  
+
+- Mover el motor en ambos sentidos de giro 
+
+  
+
+> Sensor ultrasónico   
+
+  
+
+- Medir distancia de un objeto 
+
+- Imprimir distancia en pantalla 
+
+- Control de leds con sensor de distancia 
+
+  
+
+> Sensor de línea  
+
+  
+
+- Leer el valor del sensor de línea 
+
+- Imprimir el valor del sensor de línea en pantalla 
+
+- Encender leds usando sensor de línea 
+
+- Detección de color con sensor de línea 
+
+  
+
+--- 
+
+  
+
+## Mi Robot  
+
+  
+
+--- 
+
+  
+
+- Componentes del robot   
+
+  
+
+- Armado de la base  
+
+  
+
+- Colocación de componentes   
+
+  
+
+- Circuito electrónico   
+
+  
+
+- Conexión de los componentes electrónicos  
+
+  
+
+- Programación de mi robot para resolver laberinto 
+
+  
+
+- Programación de robot para seguir una línea 
+
+  
+
+-Programación de robot para autonomía 
 
  
-
-## Practicas  
-
 ---
-
-- **Encender un led** 
-
-- **Girar el motor en un sentido usando PWM**
-
-- **Girar el motor en ambos sentidos usando PWM**
-
-- **Detectar movimiento**
-
-- **Medir la distancia de un objeto**
-
----
-
-## Mi Robot 
-
----
-
-- **Ensamble de chasis** 
-
-- **Conexión de los componentes**
-
-- **Mover motores del robot**
-
-- **Programar al robot para evadir obstáculos**  
-
- ---
-
- 
-
  
