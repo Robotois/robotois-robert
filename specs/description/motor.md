@@ -28,7 +28,7 @@
 
 > Velocidad 76 RPM 
 
-[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/Untitled.png)]()
+[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/Motor.png)]()
 
 ## Dimensiones
 
