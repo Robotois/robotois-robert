@@ -28,7 +28,7 @@
 
 > Material de la esfera: Metal
 
-[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/rudaLoca.png)]()
+[![](https://github.com/Robotois/robotois-robert/blob/master/specs/images/renders/ballCaster.png)]()
 
 ### Dimensiones (mm)
 
