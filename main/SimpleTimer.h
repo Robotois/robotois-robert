@@ -129,4 +129,5 @@ private:
     int numTimers;
 };
 
+extern SimpleTimer Timer;
 #endif
